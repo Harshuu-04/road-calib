@@ -1,0 +1,4 @@
+Size_Category,Total_GroundTruth,True_Positives,Missed_Defects,Miss_Rate_Pct,Total_Preds,False_Alarms_FP
+Small (<32² px),65,21,44,67.7,1111,1090
+Medium (32²-96² px),441,377,64,14.5,30251,29874
+Large (≥96² px),516,531,0,0.0,23137,22606

@@ -1,0 +1,6 @@
+Class,Description,Precision,Recall,AP@0.5,AP@0.5:0.95
+D00,Longitudinal Crack,0.4,0.252,0.2648,0.1023
+D10,Transverse Crack,0.2852,0.1176,0.0855,0.0296
+D20,Alligator Crack,0.571,0.6689,0.6471,0.2988
+D40,Pothole,0.476,0.3453,0.3719,0.1479
+OVERALL,Mean across all classes,0.433,0.3459,0.3423,0.1446

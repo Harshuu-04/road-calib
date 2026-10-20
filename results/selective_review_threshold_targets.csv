@@ -1,0 +1,7 @@
+Method,Target_Precision,Required_Threshold,Achieved_Precision,Auto_Accepted_Count,Sent_To_Human,Human_Workload_Pct,Defect_Recall_Pct,Status
+Raw YOLOv8,90%,0.65,0.9,60,26775,99.8,10.6,Achievable
+Temperature Scaled,90%,0.65,0.9016,61,26774,99.8,10.8,Achievable
+Isotonic Regression,90%,0.835,0.9,60,26775,99.8,10.6,Achievable
+Raw YOLOv8,95%,0.775,0.95,20,26815,99.9,3.7,Achievable
+Temperature Scaled,95%,0.775,0.9565,23,26812,99.9,4.3,Achievable
+Isotonic Regression,95%,,,0,26835,100.0,0.0,Unachievable

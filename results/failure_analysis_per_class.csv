@@ -1,0 +1,5 @@
+Class,Total_GroundTruth,Detected_TP,Missed_Defects,Miss_Rate_Pct,Total_Preds,False_Alarms_FP
+D00,254,222,32,12.6,18181,17959
+D10,17,6,11,64.7,1524,1518
+D20,305,294,11,3.6,11006,10712
+D40,446,407,39,8.7,23788,23381
